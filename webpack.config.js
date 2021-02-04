@@ -1,5 +1,6 @@
 "use strict";
 
+// @ts-ignore
 const webpack = require("webpack");
 
 const config = {
